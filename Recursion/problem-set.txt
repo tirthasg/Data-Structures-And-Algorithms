@@ -1,0 +1,48 @@
+1. Fundamentals of Recursion:
+
+Print something N times: G4G
+Print 1 to N using recursion: G4G
+Print N to 1 using recursion: G4G
+
+Sum of first N natural numbers: G4G
+Factorial of N: G4G
+Fibonacci sequence: G4G, LC-509
+Integer exponentiation: G4G, LC-50
+Fast Integer exponentiation: G4G, LC-50
+
+Tower of Hanoi: G4G
+
+Print the Elements of an Array using recursion
+Find the Largest Element of an Array using recursion
+Check if an Array is Sorted using recursion
+Reverse an array: G4G
+
+Reverse a string using recursion
+Check if a string is palindrome or not: G4G, LC-125
+Copy One String to Another using recursion
+
+Count the Digits of a Given Number using recursion
+Find the Sum of Digits of a Number using recursion
+
+Find the GCD of Two Numbers using recursion
+Convert a Decimal Number to Binary using recursion
+Check if a Number is a Prime Number using recursion
+Print Even or Odd Numbers in a Given Range using recursion
+
+Multiply Two Matrices using recursion
+
+Power of 2: LC-231
+Power of 3: LC-326
+Power of 4: LC-342
+Check if number is sum of powers of 3: LC-1780
+Count good numbers: LC-1922
+Josephus problem: G4G
+Find the winner of the circular game: LC-1823
+Predict the winner: LC-486
+Recursive implementation of string to integer (atoi): LC-8
+
+
+2. Recursion for Combinatorial-Enumeration problems:
+
+Generate all binary strings of length n
+Subsets

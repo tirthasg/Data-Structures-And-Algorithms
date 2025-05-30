@@ -1,0 +1,10 @@
+Pseudo-code for a general recursive solution:
+
+if (test for a simple case):
+    Compute a simple solution without using recursion
+else:
+    # Divide-and-conquer or Decrease-or-conquer
+    Break the problem into sub-problems of the same problem.
+    Solve each of the sub-problems by calling this function recursively.
+    Re-assemble the sub-problem solutions into a solution for the whole problem.
+
