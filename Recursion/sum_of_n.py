@@ -1,8 +1,11 @@
 def sum_till_n_v1(n):
-    if n == 0:
-        return 0
+    def helper(n):
+        if n == 0:
+            return 0
 
-    return sum_till_n_v1(n - 1) + n
+        return helper(n - 1) + n
+
+    return helper(n)
 
 
 def sum_till_n_v2(n):
