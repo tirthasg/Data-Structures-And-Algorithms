@@ -1,10 +1,13 @@
 def print_till_n_v1(n):
     # Using Decrease-and-conquer strategy from right
-    if n == 0:
-        return
+    def helper(n):
+        if n == 0:
+            return
 
-    print_till_n_v1(n - 1)
-    print(n, end=" ")
+        helper(n - 1)
+        print(n, end=" ")
+
+    helper(n)
 
 
 def print_till_n_v2(n):
