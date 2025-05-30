@@ -1,9 +1,12 @@
 def print_from_n_v1(n):
-    if n == 0:
-        return
+    def helper(n):
+        if n == 0:
+            return
 
-    print(n, end=" ")
-    print_from_n_v1(n - 1)
+        print(n, end=" ")
+        helper(n - 1)
+
+    helper(n)
 
 
 def print_from_n_v2(n):
