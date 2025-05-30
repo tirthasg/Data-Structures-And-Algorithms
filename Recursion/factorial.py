@@ -1,8 +1,11 @@
 def factorial_v1(n):
-    if n == 0:
-        return 1
+    def helper(n):
+        if n == 0:
+            return 1
 
-    return factorial_v1(n - 1) * n
+        return helper(n - 1) * n
+
+    return helper(n)
 
 
 def factorial_v2(n):
