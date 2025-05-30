@@ -6,6 +6,7 @@ def print_hello_left_to_right(n):
     def helper(n):
         if n == 0:
             return
+
         print("Hello", end=" ")
         helper(n - 1)
 
@@ -20,6 +21,7 @@ def print_hello_right_to_left(n):
     def helper(n):
         if n == 0:
             return
+
         helper(n - 1)
         print("Hello", end=" ")
 
