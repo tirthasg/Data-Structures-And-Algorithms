@@ -1,14 +1,8 @@
-def factorial_v1(n):
-    def helper(n):
-        if n == 0:
-            return 1
+def factorial_left_to_right(n):
+    """
+    Computes factorial of n using a decrease-and-conquer strategy (left to right).
+    """
 
-        return helper(n - 1) * n
-
-    return helper(n)
-
-
-def factorial_v2(n):
     def helper(n, curr):
         if curr > n:
             return 1
@@ -18,17 +12,36 @@ def factorial_v2(n):
     return helper(n, 1)
 
 
-def factorial_v3(n):
+def factorial_right_to_left(n):
+    """
+    Computes factorial of n using a decrease-and-conquer strategy (right to left).
+    """
+
+    def helper(n):
+        if n == 0:
+            return 1
+
+        return n * helper(n - 1)
+
+    return helper(n)
+
+
+def factorial_divide_and_conquer(n):
+    """
+    Computes factorial of n using a divide-and-conquer strategy.
+    """
+
     def helper(low, high):
         if low == high:
             return low
 
-        mid = low + (high - low) // 2
+        mid = (low + high) // 2
         return helper(low, mid) * helper(mid + 1, high)
 
     return helper(1, n)
 
 
-print(factorial_v1(5))
-print(factorial_v2(5))
-print(factorial_v3(5))
+if __name__ == "__main__":
+    print(factorial_right_to_left(5))
+    print(factorial_left_to_right(5))
+    print(factorial_divide_and_conquer(5))
