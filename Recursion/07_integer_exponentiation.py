@@ -1,14 +1,8 @@
-def power_v1(base, exponent):
-    def helper(base, exponent):
-        if exponent == 0:
-            return 1
+def power_left_to_right(base, exponent):
+    """
+    Computes base^exponent using a decrease-and-conquer strategy (left to right).
+    """
 
-        return base * helper(base, exponent - 1)
-
-    return helper(base, exponent)
-
-
-def power_v2(base, exponent):
     def helper(base, exponent, curr):
         if curr > exponent:
             return 1
@@ -18,24 +12,46 @@ def power_v2(base, exponent):
     return helper(base, exponent, 1)
 
 
-def power_v3(base, exponent):
+def power_right_to_left(base, exponent):
+    """
+    Computes base^exponent using a decrease-and-conquer strategy (right to left).
+    """
+
+    def helper(base, exponent):
+        if exponent == 0:
+            return 1
+
+        return base * helper(base, exponent - 1)
+
+    return helper(base, exponent)
+
+
+def power_divide_and_conquer(base, exponent):
+    """
+    Computes base^exponent using divide-and-conquer strategy.
+    """
+
     def helper(base, low, high):
         if low == high:
             return base
 
-        mid = low + (high - low) // 2
+        mid = (low + high) // 2
         return helper(base, low, mid) * helper(base, mid + 1, high)
 
     return helper(base, 1, exponent)
 
 
-def power_v4(base, exponent):
+def power_better_divide_and_conquer(base, exponent):
+    """
+    Computes base^exponent using exponentiation by squaring.
+    """
+
     def helper(base, exponent):
         if exponent == 0:
             return 1
 
-        half_power = helper(base, exponent // 2)
-        result = half_power * half_power
+        half = helper(base, exponent // 2)
+        result = half * half
         if exponent % 2 == 0:
             return result
 
@@ -44,7 +60,8 @@ def power_v4(base, exponent):
     return helper(base, exponent)
 
 
-print(power_v1(2, 5))
-print(power_v2(2, 5))
-print(power_v3(2, 5))
-print(power_v4(2, 5))
+if __name__ == "__main__":
+    print(power_right_to_left(2, 5))
+    print(power_left_to_right(2, 5))
+    print(power_divide_and_conquer(2, 5))
+    print(power_better_divide_and_conquer(2, 5))
