@@ -8,28 +8,30 @@ Sum of first N natural numbers: G4G
 Factorial of N: G4G
 Fibonacci sequence: G4G, LC-509
 Integer exponentiation: G4G, LC-50
-Fast Integer exponentiation: G4G, LC-50
 
 Tower of Hanoi: G4G
 
-Print the Elements of an Array using recursion
-Find the Largest Element of an Array using recursion
-Check if an Array is Sorted using recursion
+Print the elements of an array using recursion
+Find the largest element of an array using recursion
+Check if an array is sorted using recursion
 Reverse an array: G4G
 
 Reverse a string using recursion
 Check if a string is palindrome or not: G4G, LC-125
-Copy One String to Another using recursion
+Copy one string (or, char array) to another using recursion
 
 Count the Digits of a Given Number using recursion
 Find the Sum of Digits of a Number using recursion
 
-Find the GCD of Two Numbers using recursion
-Convert a Decimal Number to Binary using recursion
-Check if a Number is a Prime Number using recursion
-Print Even or Odd Numbers in a Given Range using recursion
+Find the GCD of two numbers using recursion
+Check if a number is a prime number using recursion
 
-Multiply Two Matrices using recursion
+Convert a decimal number to binary using recursion
+Print even or odd numbers in a given range using recursion
+
+Count the number of subsets of a set of size N using recursion
+
+Multiply two matrices using recursion
 
 Power of 2: LC-231
 Power of 3: LC-326
