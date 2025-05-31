@@ -1,4 +1,9 @@
-def fibonacci_v1(n):
+def fibonacci_recursive(n):
+    """
+    Computes the nth Fibonacci number using naive recursion.
+    Time complexity: O(2^n)
+    """
+
     def helper(n):
         if n == 0:
             return 0
@@ -11,7 +16,12 @@ def fibonacci_v1(n):
     return helper(n)
 
 
-def fibonacci_v2(n):
+def fibonacci_tail_recursive(n):
+    """
+    Computes the nth Fibonacci number using tail recursion.
+    Time complexity: O(n)
+    """
+
     def helper(n, first, second):
         if n == 0:
             return first
@@ -24,5 +34,6 @@ def fibonacci_v2(n):
     return helper(n, 0, 1)
 
 
-print(fibonacci_v1(6))
-print(fibonacci_v2(6))
+if __name__ == "__main__":
+    print(fibonacci_recursive(6))
+    print(fibonacci_tail_recursive(6))
