@@ -8,3 +8,28 @@ else:
     Solve each of the sub-problems by calling this function recursively.
     Re-assemble the sub-problem solutions into a solution for the whole problem.
 
+
+Pseudo-code for combinatorial enumeration problems:
+
+# | | | | | | | | | _ _ _ _ _ _ _ _ _ _ _
+# partial_solution  subproblem_definiton
+
+def helper(subproblem_definiton, partial_solution):
+    # Base Case: Leaf worker
+    if subproblem_size == 0:
+        # Treat the partial solution as a complete combinatorial object
+        print / process / add it to a global result / ...
+        return
+
+    # Recursive Case: Internal node
+    for each choice c1, c2, c3, ..., ck for filling
+    in the leftmost blank:
+        # Make that choice
+            - Write that choice in the blank
+            - Delegate -> helper(slightly_smaller_subproblem_definition, slightly_larger_partial_solution)
+
+def overall(problem_of_size_n):
+    Initialize a global result
+    helper(full_problem_of_size_n, blank_slate)
+    return result
+
