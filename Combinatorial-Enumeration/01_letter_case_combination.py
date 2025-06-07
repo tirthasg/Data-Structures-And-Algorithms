@@ -1,21 +1,21 @@
 def letter_case_permutation(s):
-    def helper(s, index, slate):
-        if index == len(s):
+    def helper(s, i, slate):
+        if i == len(s):
             result.append("".join(slate))
             return
 
-        if s[index].isdigit():
-            slate.append(s[index])
-            helper(s, index + 1, slate)
+        if s[i].isdigit():
+            slate.append(s[i])
+            helper(s, i + 1, slate)
             slate.pop()
             return
 
-        slate.append(s[index].lower())
-        helper(s, index + 1, slate)
+        slate.append(s[i].lower())
+        helper(s, i + 1, slate)
         slate.pop()
 
-        slate.append(s[index].upper())
-        helper(s, index + 1, slate)
+        slate.append(s[i].upper())
+        helper(s, i + 1, slate)
         slate.pop()
 
     result = []
