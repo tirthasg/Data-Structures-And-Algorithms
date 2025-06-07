@@ -1,25 +1,25 @@
-def letter_case_permutation(string):
-    def helper(string, index, slate):
-        if index == len(string):
+def letter_case_permutation(s):
+    def helper(s, index, slate):
+        if index == len(s):
             result.append("".join(slate))
             return
 
-        if string[index].isdigit():
-            slate.append(string[index])
-            helper(string, index + 1, slate)
+        if s[index].isdigit():
+            slate.append(s[index])
+            helper(s, index + 1, slate)
             slate.pop()
             return
 
-        slate.append(string[index].lower())
-        helper(string, index + 1, slate)
+        slate.append(s[index].lower())
+        helper(s, index + 1, slate)
         slate.pop()
 
-        slate.append(string[index].upper())
-        helper(string, index + 1, slate)
+        slate.append(s[index].upper())
+        helper(s, index + 1, slate)
         slate.pop()
 
     result = []
-    helper(string, 0, [])
+    helper(s, 0, [])
     return result
 
 
