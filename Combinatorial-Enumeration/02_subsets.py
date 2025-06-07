@@ -1,13 +1,13 @@
 def subsets(nums):
-    def helper(nums, index, slate):
-        if index == len(nums):
+    def helper(nums, i, slate):
+        if i == len(nums):
             result.append(slate[:])
             return
 
-        helper(nums, index + 1, slate)
+        helper(nums, i + 1, slate)
 
-        slate.append(nums[index])
-        helper(nums, index + 1, slate)
+        slate.append(nums[i])
+        helper(nums, i + 1, slate)
         slate.pop()
 
     result = []
