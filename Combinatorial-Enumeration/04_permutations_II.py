@@ -1,20 +1,20 @@
 def permute_unique(nums):
-    def helper(nums, index, slate):
-        if index == len(nums):
+    def helper(nums, i, slate):
+        if i == len(nums):
             result.append(slate[:])
             return
 
         uniques = set()
-        for pick in range(index, len(nums)):
+        for pick in range(i, len(nums)):
             if nums[pick] in uniques:
                 continue
+            uniques.add(nums[i])
 
-            uniques.add(nums[pick])
-            nums[index], nums[pick] = nums[pick], nums[index]
-            slate.append(nums[index])
-            helper(nums, index + 1, slate)
+            nums[i], nums[pick] = nums[pick], nums[i]
+            slate.append(nums[i])
+            helper(nums, i + 1, slate)
             slate.pop()
-            nums[index], nums[pick] = nums[pick], nums[index]
+            nums[i], nums[pick] = nums[pick], nums[i]
 
     result = []
     helper(nums, 0, [])
