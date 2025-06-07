@@ -1,14 +1,15 @@
 def permute(nums):
-    def helper(nums, index, slate):
-        if index == len(nums):
+    def helper(nums, i, slate):
+        if i == len(nums):
             result.append(slate[:])
             return
 
-        for pick in range(index, len(nums)):
-            nums[index], nums[pick] = nums[pick], nums[index]
-            slate.append(nums[index])
-            helper(nums, index + 1, slate)
+        for pick in range(i, len(nums)):
+            nums[i], nums[pick] = nums[pick], nums[i]
+            slate.append(nums[i])
+            helper(nums, i + 1, slate)
             slate.pop()
+            nums[i], nums[pick] = nums[pick], nums[i]
 
     result = []
     helper(nums, 0, [])
