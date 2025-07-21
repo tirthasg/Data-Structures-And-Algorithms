@@ -94,6 +94,8 @@
   [Remove duplicates in a sorted linkedlist](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
 - **Remove Duplicates from Unsorted List**  
   [Remove duplicates from an unsorted linkedlist](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)
+- **Delete Keys in a Linked List**
+  [Delete keys in a linked list](https://www.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
 - **Remove All Occurrences of Duplicates**  
   [Remove all occurences of duplicates in a linkedlist](https://www.geeksforgeeks.org/problems/remove-all-occurences-of-duplicates-in-a-linked-list/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 - **Delete Middle Node**  
@@ -109,7 +111,7 @@
 
 ---
 
-## 🔁 Loop Detection & Removal
+## 🔁 Loop Detection, Removal & Intersections
 
 - **Detect Loop in Linked List**  
   [Detect loop in a linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
@@ -117,6 +119,8 @@
   [Length of loop in linked list](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
 - **Remove Loop in Linked List**  
   [Remove loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+- **Intersection in Y-shaped Lists**
+  [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 
 ---
 
@@ -152,6 +156,11 @@
   [Union of two linked lists](https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1)
 - **Intersection of Sorted Linked Lists**  
   [Intersection sorted linked list](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
+- **Quick Sort on Linked List**
+  [Quick sort on linked list](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1?page=2&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Quick Sort on Doubly Linked List**
+  [Quick sort on doubly linked list](https://www.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1?page=3&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+
 ---
 
 ## 🔄 Advanced Transformations
