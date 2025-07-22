@@ -155,7 +155,9 @@
 - **Union of Two Linked Lists**  
   [Union of two linked lists](https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1)
 - **Intersection of Sorted Linked Lists**  
-  [Intersection sorted linked list](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
+  [Intersection sorted linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
+- **Intersection of Two Linked Lists**
+  [Intersection of two linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Quick Sort on Linked List**
   [Quick sort on linked list](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1?page=2&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Quick Sort on Doubly Linked List**
@@ -169,7 +171,9 @@
   [Rotate a linked list](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)
 - **Rotate Doubly Linked List**  
   [Rotate doubly linked list](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
-
+- **XOR Linked List**
+  [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+  
 ---
 
 ## 🧱 Design & Implementation
