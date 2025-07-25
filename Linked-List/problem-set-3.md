@@ -173,7 +173,7 @@
   [Rotate doubly linked list](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
 - **XOR Linked List**
   [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-  
+
 ---
 
 ## 🧱 Design & Implementation
@@ -187,3 +187,4 @@
 
 - **Stack Using Linked List**  
   [Stack using linkedlist](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
+
