@@ -94,7 +94,7 @@
   [Remove duplicates in a sorted linkedlist](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
 - **Remove Duplicates from Unsorted List**  
   [Remove duplicates from an unsorted linkedlist](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)
-- **Delete Keys in a Linked List**
+- **Delete Keys in a Linked List**  
   [Delete keys in a linked list](https://www.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
 - **Remove All Occurrences of Duplicates**  
   [Remove all occurences of duplicates in a linkedlist](https://www.geeksforgeeks.org/problems/remove-all-occurences-of-duplicates-in-a-linked-list/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
@@ -119,8 +119,10 @@
   [Length of loop in linked list](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
 - **Remove Loop in Linked List**  
   [Remove loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
-- **Intersection in Y-shaped Lists**
+- **Intersection in Y-shaped Lists**  
   [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+- **First Node of Loop**  
+  [First node of loop in linkedlist](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 
 ---
 
@@ -152,16 +154,22 @@
   [Sort a singly linked list](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)
 - **Merge Sort for Linked List**  
   [Merge sort for linked list](https://www.geeksforgeeks.org/problems/sort-a-linked-list/1)
+- **Merge Sort on Doubly Linked List**  
+  [Merge sort on doubly linked list](https://www.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1?page=1&category=Linked%20List&difficulty=Hard&status=solved&sortBy=submissions)
 - **Union of Two Linked Lists**  
   [Union of two linked lists](https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1)
 - **Intersection of Sorted Linked Lists**  
   [Intersection sorted linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
-- **Intersection of Two Linked Lists**
+- **Intersection of Two Linked Lists**  
   [Intersection of two linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Quick Sort on Linked List**
+- **Quick Sort on Linked List**  
   [Quick sort on linked list](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1?page=2&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Quick Sort on Doubly Linked List**
+- **Quick Sort on Doubly Linked List**  
   [Quick sort on doubly linked list](https://www.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1?page=3&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Split Linked List into Two Halves**  
+  [Split a linkedlist into two halves](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1?page=2&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
+- **Palindrome Linked List**  
+  [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 
 ---
 
@@ -171,8 +179,10 @@
   [Rotate a linked list](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)
 - **Rotate Doubly Linked List**  
   [Rotate doubly linked list](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
-- **XOR Linked List**
+- **XOR Linked List**  
   [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Reverse a Linked List**  
+  [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 
 ---
 
@@ -187,4 +197,3 @@
 
 - **Stack Using Linked List**  
   [Stack using linkedlist](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
-
