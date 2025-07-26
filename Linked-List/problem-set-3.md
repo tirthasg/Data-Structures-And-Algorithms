@@ -111,7 +111,7 @@
 
 ---
 
-## 🔁 Loop Detection, Removal & Intersections
+## 🔁 Loop Detection, Removal & Ad-hocs
 
 - **Detect Loop in Linked List**  
   [Detect loop in a linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
