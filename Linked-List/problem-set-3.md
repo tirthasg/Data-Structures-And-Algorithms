@@ -121,10 +121,10 @@
   [Length of loop in linked list](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
 - **Remove Loop in Linked List**  
   [Remove loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
-- **Intersection in Y-shaped Lists**  
-  [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 - **First Node of Loop**  
   [First node of loop in linkedlist](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
+- **Intersection in Y-shaped Lists**  
+  [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 
 ---
 
