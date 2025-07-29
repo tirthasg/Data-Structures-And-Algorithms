@@ -189,8 +189,6 @@
   [Rotate a linked list](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)
 - **Rotate Doubly Linked List**  
   [Rotate doubly linked list](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
-- **XOR Linked List**  
-  [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Reverse a Linked List**  
   [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Reverse a Doubly Linked List**
@@ -219,7 +217,8 @@
   [Add numbers represented as linked list](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 - **Reverse Alternate Nodes in Linked List**
   [Reverse alternate nodes in a linked list](https://www.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)
-
+- **XOR Linked List**  
+  [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 
 ---
 
