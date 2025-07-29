@@ -71,10 +71,10 @@
   [Linkedlist Insertion (HackerRank)](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem)
 - **Insert in Middle**  
   [Linkedlist insert at the middle](https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1?page=1&category=Linked%20List&difficulty=Basic&status=solved&sortBy=submissions)
-- **Array to Linked List**  
-  [Array to linkedlist](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Insert in Sorted List**  
   [Insert in sorted list](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
+- **Array to Linked List**  
+  [Array to linkedlist](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Insert in Sorted Doubly Linked List**  
   [Insert value in sorted way in a sorted doubly linkedlist](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1)
 
