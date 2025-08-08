@@ -96,8 +96,6 @@
   [Delete alternate nodes](https://www.geeksforgeeks.org/problems/delete-alternate-nodes/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Remove Every K-th Node**  
   [Remove every kth node of a linkedlist](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1)
-- **Delete Node Without Head Pointer**  
-  [Delete without head pointer](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1)
 - **Remove Duplicates from Sorted List**  
   [Remove duplicates in a sorted linkedlist](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
 - **Remove All Occurrences of Duplicates**  
@@ -108,6 +106,8 @@
   [Delete N nodes after M nodes](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
 - **Move Last Node to Front**  
   [Move last element to front of linkedlist](https://www.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1?page=2&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
+- **Delete Node Without Head Pointer**  
+  [Delete without head pointer](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1)
 - **Delete Head of Doubly Linked List**
   [Delete head of doubly linked list](https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1?page=1&category=doubly-linked-list,circular-linked-list,circular%20linked%20list&sortBy=submissions)
 - **Delete Node in Doubly Linked List**  
