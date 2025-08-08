@@ -90,12 +90,12 @@
   [Linkedlist deletion at a position](https://www.geeksforgeeks.org/problems/linked-list-delete-at-position/1?page=2&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Delete Middle Node**  
   [Delete middle of linkedlist](https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
+- **Delete Keys in a Linked List**  
+  [Delete keys in a linked list](https://www.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
 - **Delete Alternate Nodes**  
   [Delete alternate nodes](https://www.geeksforgeeks.org/problems/delete-alternate-nodes/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Remove Every K-th Node**  
   [Remove every kth node of a linkedlist](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1)
-- **Delete Keys in a Linked List**  
-  [Delete keys in a linked list](https://www.geeksforgeeks.org/problems/delete-keys-in-a-linked-list/1)
 - **Delete Node Without Head Pointer**  
   [Delete without head pointer](https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1)
 - **Remove Duplicates from Sorted List**  
