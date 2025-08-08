@@ -96,14 +96,14 @@
   [Delete alternate nodes](https://www.geeksforgeeks.org/problems/delete-alternate-nodes/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Remove Every K-th Node**  
   [Remove every kth node of a linkedlist](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1)
+- **Delete N Nodes After M Nodes**  
+  [Delete N nodes after M nodes](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
 - **Remove Duplicates from Sorted List**  
   [Remove duplicates in a sorted linkedlist](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
 - **Remove All Occurrences of Duplicates**  
   [Remove all occurences of duplicates in a linkedlist](https://www.geeksforgeeks.org/problems/remove-all-occurences-of-duplicates-in-a-linked-list/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 - **Remove Duplicates from Unsorted List**  
   [Remove duplicates from an unsorted linkedlist](https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)
-- **Delete N Nodes After M Nodes**  
-  [Delete N nodes after M nodes](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
 - **Move Last Node to Front**  
   [Move last element to front of linkedlist](https://www.geeksforgeeks.org/problems/move-last-element-to-front-of-a-linked-list/1?page=2&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Delete Node Without Head Pointer**  
