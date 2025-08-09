@@ -144,10 +144,6 @@
   [Split linked list alternatively](https://www.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1)
 - **Sort 0s, 1s and 2s in Linked List**  
   [Sort a linked list of 0s, 1s, and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
-- **Partition Around Value**  
-  [Partition a linked list around a value](https://www.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1)
-- **Insertion Sort on Linked List**  
-  [Sort a singly linked list](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)
 - **Merge Sort for Linked List**  
   [Merge sort for linked list](https://www.geeksforgeeks.org/problems/sort-a-linked-list/1)
 - **Merge Sort on Doubly Linked List**  
@@ -158,6 +154,10 @@
   [Intersection sorted linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
 - **Intersection of Two Linked Lists**  
   [Intersection of two linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Insertion Sort on Linked List**  
+  [Sort a singly linked list](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)
+- **Partition Around Value**  
+  [Partition a linked list around a value](https://www.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1)
 - **Quick Sort on Linked List**  
   [Quick sort on linked list](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1?page=2&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Quick Sort on Doubly Linked List**  
