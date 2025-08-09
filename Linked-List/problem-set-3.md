@@ -115,6 +115,13 @@
 
 ---
 
+## 🧱 Design & Implementation
+
+- **Design Linked List**  
+  [Design linkedlist (LeetCode)](https://leetcode.com/problems/design-linked-list/)
+
+---
+
 ## 🔁 Loop Detection, Removal & Ad-hocs
 
 - **Detect Loop in Linked List**  
@@ -221,13 +228,6 @@
   [Reverse alternate nodes in a linked list](https://www.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)
 - **XOR Linked List**  
   [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-
----
-
-## 🧱 Design & Implementation
-
-- **Design Linked List**  
-  [Design linkedlist (LeetCode)](https://leetcode.com/problems/design-linked-list/)
 
 ---
 
