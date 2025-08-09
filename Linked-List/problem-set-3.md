@@ -241,3 +241,4 @@
 
 - **Modulo Arithmetic**
 - **Primality**
+- **Heaps**
