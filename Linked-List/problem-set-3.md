@@ -142,10 +142,10 @@
   [Arrange consonents and vowels](https://www.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1)
 - **Split List Alternatingly**  
   [Split linked list alternatively](https://www.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1)
-- **Partition Around Value**  
-  [Partition a linked list around a value](https://www.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1)
 - **Sort 0s, 1s and 2s in Linked List**  
   [Sort a linked list of 0s, 1s, and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+- **Partition Around Value**  
+  [Partition a linked list around a value](https://www.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1)
 - **Insertion Sort on Linked List**  
   [Sort a singly linked list](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)
 - **Merge Sort for Linked List**  
