@@ -138,10 +138,10 @@
   [Seggregate even and odd nodes in a linked list](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1)
 - **Move All Zeros to Front**  
   [Move all zeros to the front of the linked list](https://www.geeksforgeeks.org/problems/move-all-zeros-to-the-front-of-the-linked-list/1)
-- **Split List Alternatingly**  
-  [Split linked list alternatively](https://www.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1)
 - **Arrange Consonants and Vowels**  
   [Arrange consonents and vowels](https://www.geeksforgeeks.org/problems/arrange-consonants-and-vowels/1)
+- **Split List Alternatingly**  
+  [Split linked list alternatively](https://www.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1)
 - **Partition Around Value**  
   [Partition a linked list around a value](https://www.geeksforgeeks.org/problems/partition-a-linked-list-around-a-given-value/1)
 - **Sort 0s, 1s and 2s in Linked List**  
