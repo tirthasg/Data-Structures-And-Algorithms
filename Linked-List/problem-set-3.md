@@ -122,21 +122,6 @@
 
 ---
 
-## 🔁 Loop Detection, Removal & Ad-hocs
-
-- **Detect Loop in Linked List**  
-  [Detect loop in a linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
-- **Length of Loop in Linked List**  
-  [Length of loop in linked list](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
-- **Remove Loop in Linked List**  
-  [Remove loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
-- **First Node of Loop**  
-  [First node of loop in linkedlist](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
-- **Intersection in Y-shaped Lists**  
-  [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
-
----
-
 ## 🧩 Sorting, Merging & Transformations
 
 - **Join Two Linked Lists**  
@@ -189,6 +174,21 @@
   [Linked list that is sorted alternatively](https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Modify the Linked List-1**
   [Modify the linked list-1](https://www.geeksforgeeks.org/problems/modify-linked-list-1-0546/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+
+---
+
+## 🔁 Loop Detection, Removal & Ad-hocs
+
+- **Detect Loop in Linked List**  
+  [Detect loop in a linked list](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
+- **Length of Loop in Linked List**  
+  [Length of loop in linked list](https://www.geeksforgeeks.org/problems/find-length-of-loop/1)
+- **Remove Loop in Linked List**  
+  [Remove loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
+- **First Node of Loop**  
+  [First node of loop in linkedlist](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
+- **Intersection in Y-shaped Lists**  
+  [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 
 ---
 
