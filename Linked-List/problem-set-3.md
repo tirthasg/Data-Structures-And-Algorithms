@@ -236,7 +236,6 @@
 - **Stack Using Linked List**  
   [Stack using linkedlist](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
 
-
 ## Conceptual Gaps
 
 - **Modulo Arithmetic**
