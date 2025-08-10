@@ -162,8 +162,6 @@
   [Quick sort on linked list](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1?page=2&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Quick Sort on Doubly Linked List**  
   [Quick sort on doubly linked list](https://www.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1?page=3&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Absolute List Sorting**
-  [Absolute list sorting](https://www.geeksforgeeks.org/problems/absolute-list-sorting/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Linked List That's Sorted Alternatively**
   [Linked list that is sorted alternatively](https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Modify the Linked List-1**
@@ -228,6 +226,8 @@
   [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 - **Linked List of Strings Form Palindrome**
   [Linked lists of strings forms a palindrome](https://www.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Absolute List Sorting**
+  [Absolute list sorting](https://www.geeksforgeeks.org/problems/absolute-list-sorting/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 
 ---
 
