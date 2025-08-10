@@ -162,8 +162,6 @@
   [Quick sort on linked list](https://www.geeksforgeeks.org/problems/quick-sort-on-linked-list/1?page=2&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Quick Sort on Doubly Linked List**  
   [Quick sort on doubly linked list](https://www.geeksforgeeks.org/problems/quicksort-on-doubly-linked-list/1?page=3&category=Linked%20List&difficulty=Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Palindrome Linked List**  
-  [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 - **Linked List of Strings Form Palindrome**
   [Linked lists of strings forms a palindrome](https://www.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Absolute List Sorting**
@@ -228,7 +226,9 @@
   [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Split Linked List into Two Halves**  
   [Split a linkedlist into two halves](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1?page=2&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
-  
+- **Palindrome Linked List**  
+  [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
+
 ---
 
 ## 📚 Stack Implementation
