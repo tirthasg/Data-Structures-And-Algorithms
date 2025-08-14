@@ -75,6 +75,8 @@
   [Array to linkedlist](https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Insert in Sorted List**  
   [Insert in sorted list](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
+- **Insert at Specific Position in Doubly Linked List**
+  [Insert node at a specific position in doubly linked list](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?isFullScreen=true)
 - **Insert in Sorted Doubly Linked List**  
   [Insert value in sorted way in a sorted doubly linkedlist](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1)
 
@@ -228,6 +230,8 @@
   [First node of loop in linkedlist](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Intersection in Y-shaped Lists**  
   [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+- **Find Merge Point of Two Linked Lists**
+  [Find merge point of two linked lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/forum)
 
 ---
 
