@@ -29,15 +29,15 @@
 
 ## 🔍 Search, Frequency & Values
 
+- **Search in Linked List**  
+  [Search in a linkedlist](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)
 - **Occurrence of Integer**  
   [Frequency in a linkedlist](https://www.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1)
-- **Modular Node**  
-  [Modular node](https://www.geeksforgeeks.org/problems/modular-node/1?page=1&category=Linked%20List&difficulty=Basic&status=solved&sortBy=submissions)
 - **Decimal Equivalent of Binary Linked List**  
   [Decimal equivalent of binary linkedlist](https://www.geeksforgeeks.org/problems/decimal-equivalent-of-binary-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy&status=unsolved&sortBy=submissions)
 - **Is Linked List Sorted?**  
   [Is linkedlist sorted?](https://www.geeksforgeeks.org/problems/is-linked-list-sorted/1)
-- **Prime List**  
+- **Prime List (DNS)**  
   [Prime list](https://www.geeksforgeeks.org/problems/prime-list--170646/1?page=1&category=Linked%20List&difficulty=Medium&status=unsolved&sortBy=submissions)
 - **Count Pairs Whose Sum Equals X**
   [Count pairs whose sum equals to x](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-equal-to-x/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
@@ -46,8 +46,8 @@
 
 ## 🔎 Index-Based Operations
 
-- **Search in Linked List**  
-  [Search in a linkedlist](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1)
+- **Modular Node**  
+  [Modular node](https://www.geeksforgeeks.org/problems/modular-node/1?page=1&category=Linked%20List&difficulty=Basic&status=solved&sortBy=submissions)
 - **Node at Given Index**  
   [Node at a given index in linkedlist](https://www.geeksforgeeks.org/problems/node-at-a-given-index-in-linked-list/1)
 - **Kth Node from End**  
@@ -130,7 +130,7 @@
   [Join two linked list](https://www.geeksforgeeks.org/problems/join-two-linked-lists/1)
 - **Merge Two Sorted Linked Lists**  
   [Merge 2 sorted linked list](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1)
-- **Merge K Sorted Linked Lists**  
+- **Merge K Sorted Linked Lists (DNS)**  
   [Merge k sorted linked lists](https://www.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1)
 - **Merge Lists Alternatively**  
   [Merge lists alternatively](https://www.geeksforgeeks.org/problems/merge-list-alternatingly/1)
@@ -146,16 +146,16 @@
   [Split linked list alternatively](https://www.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1)
 - **Sort 0s, 1s and 2s in Linked List**  
   [Sort a linked list of 0s, 1s, and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+- **Intersection of Sorted Linked Lists**  
+  [Intersection sorted linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
+- **Intersection of Two Linked Lists**  
+  [Intersection of two linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Merge Sort for Linked List**  
   [Merge sort for linked list](https://www.geeksforgeeks.org/problems/sort-a-linked-list/1)
 - **Merge Sort on Doubly Linked List**  
   [Merge sort on doubly linked list](https://www.geeksforgeeks.org/problems/merge-sort-on-doubly-linked-list/1?page=1&category=Linked%20List&difficulty=Hard&status=solved&sortBy=submissions)
 - **Union of Two Linked Lists**  
   [Union of two linked lists](https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1)
-- **Intersection of Sorted Linked Lists**  
-  [Intersection sorted linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)
-- **Intersection of Two Linked Lists**  
-  [Intersection of two linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Insertion Sort on Linked List**  
   [Sort a singly linked list](https://www.geeksforgeeks.org/problems/insertion-sort-for-singly-linked-list/1)
 - **Partition Around Value**  
@@ -249,9 +249,12 @@
 
 
 
-
-
-
+https://www.youtube.com/watch?v=-sykPjQV5_Y
+https://www.youtube.com/@MasterWithinBangla/streams
+https://www.youtube.com/watch?v=Bvt5ETuAdbQ
+https://www.satsangamerica.org/sites/default/files/books/Souvenir-US_2007.pdf
+chrome://downloads/
+https://remotedesktop.google.com/access/session/22c512c3-2933-99de-4831-3b1182b6307e
 
 
 
