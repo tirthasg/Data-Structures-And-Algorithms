@@ -258,6 +258,8 @@
 - **Heaps**
 - **Two Pointers**
 - **Sliding Windows**
+- **Prefix & Suffix Sums**
+- **Difference Arrays**
 - **Tries**
 - **Bit Manipulation**
 
