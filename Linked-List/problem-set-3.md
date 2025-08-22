@@ -77,6 +77,8 @@
   [Insert in sorted list](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Insert at Specific Position in Doubly Linked List**
   [Insert node at a specific position in doubly linked list](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem?isFullScreen=true)
+- **Insertion at Doubly Linked List**
+  [Insertion at doubly linked list](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1?page=1&category=doubly-linked-list,circular-linked-list,circular%20linked%20list&sortBy=submissions)
 - **Insert in Sorted Doubly Linked List**  
   [Insert value in sorted way in a sorted doubly linkedlist](https://www.geeksforgeeks.org/problems/insert-in-sorted-way-in-a-sorted-dll/1)
 
