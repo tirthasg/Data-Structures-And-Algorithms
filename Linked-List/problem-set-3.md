@@ -249,6 +249,29 @@
 - **Heaps**
 
 
+## Diwali
+
+- **Linked Lists**
+- **Stacks**
+- **Queues**
+- **Sorting**
+- **Heaps**
+- **Two Pointers**
+- **Sliding Windows**
+- **Tries**
+- **Bit Manipulation**
+
+- **Itertools**
+- **Iterables & Iterators**
+- **Sequence Types**
+- **Generators**
+- **Context Managers**
+- **Functions**
+- **Modules & Packages**
+
+- **FastAPI**
+- **Pydantic V2**
+- **Effective Pandas**
 
 
 https://www.youtube.com/watch?v=-sykPjQV5_Y
