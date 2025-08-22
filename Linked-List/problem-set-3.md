@@ -268,10 +268,12 @@
 - **Context Managers**
 - **Functions**
 - **Modules & Packages**
+- **Type Annotations**
 
 - **FastAPI**
 - **Pydantic V2**
 - **Effective Pandas**
+- **NumPy**
 
 
 https://www.youtube.com/watch?v=-sykPjQV5_Y
