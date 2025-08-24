@@ -185,6 +185,8 @@
   [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 - **Linked List of Strings Form Palindrome**
   [Linked lists of strings forms a palindrome](https://www.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Reverse Both Parts**
+  [Reverse both parts](https://www.geeksforgeeks.org/problems/reverse-both-parts--170647/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Reorder List**
   [Reorder list](https://www.geeksforgeeks.org/problems/reorder-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Linked List Group Reversal**
@@ -195,8 +197,6 @@
   [Pairwise swap nodes of a linked list](https://www.geeksforgeeks.org/problems/pairwise-swap-of-nodes-in-linkelist/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Swap Kth Nodes From Ends**
   [Swap kth nodes from ends](https://www.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Reverse Both Parts**
-  [Reverse both parts](https://www.geeksforgeeks.org/problems/reverse-both-parts--170647/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Reverse a Sublist of Linked List**
   [Reverse a sublist of a linked list](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Rearrange Linked List In-Place**
