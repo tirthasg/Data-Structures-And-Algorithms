@@ -181,6 +181,10 @@
   [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Reverse a Doubly Linked List**
   [Reverse a doubly linked list](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Palindrome Linked List**  
+  [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
+- **Linked List of Strings Form Palindrome**
+  [Linked lists of strings forms a palindrome](https://www.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Linked List Group Reversal**
   [Linked list group reversal](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Pairwise Swap Elements of Linked List**
@@ -209,10 +213,6 @@
   [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Split Linked List into Two Halves**  
   [Split a linkedlist into two halves](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1?page=2&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
-- **Palindrome Linked List**  
-  [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
-- **Linked List of Strings Form Palindrome**
-  [Linked lists of strings forms a palindrome](https://www.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Absolute List Sorting**
   [Absolute list sorting](https://www.geeksforgeeks.org/problems/absolute-list-sorting/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Linked List That's Sorted Alternatively**
