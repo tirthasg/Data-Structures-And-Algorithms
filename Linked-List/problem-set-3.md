@@ -181,6 +181,8 @@
   [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Reverse a Doubly Linked List**
   [Reverse a doubly linked list](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Reverse a Sublist of Linked List**
+  [Reverse a sublist of a linked list](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Palindrome Linked List**  
   [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 - **Linked List of Strings Form Palindrome**
@@ -189,6 +191,8 @@
   [Reverse both parts](https://www.geeksforgeeks.org/problems/reverse-both-parts--170647/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Reorder List**
   [Reorder list](https://www.geeksforgeeks.org/problems/reorder-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Rearrange Linked List In-Place**
+  [Rearrange a linked list in-place](https://www.geeksforgeeks.org/problems/rearrange-linked-list-in-place/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Linked List Group Reversal**
   [Linked list group reversal](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Pairwise Swap Elements of Linked List**
@@ -197,10 +201,6 @@
   [Pairwise swap nodes of a linked list](https://www.geeksforgeeks.org/problems/pairwise-swap-of-nodes-in-linkelist/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Swap Kth Nodes From Ends**
   [Swap kth nodes from ends](https://www.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Reverse a Sublist of Linked List**
-  [Reverse a sublist of a linked list](https://www.geeksforgeeks.org/problems/reverse-a-sublist-of-a-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Rearrange Linked List In-Place**
-  [Rearrange a linked list in-place](https://www.geeksforgeeks.org/problems/rearrange-linked-list-in-place/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Merge 2 Sorted Linked List in Reverse Order**
   [Merge 2 sorted linked list in reverse order](https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Add 1 To Linked List**
