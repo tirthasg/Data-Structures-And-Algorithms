@@ -187,12 +187,26 @@
   [Palindrome linked list](https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category=Linked%20List&difficulty=Medium&status=solved&sortBy=submissions)
 - **Linked List of Strings Form Palindrome**
   [Linked lists of strings forms a palindrome](https://www.geeksforgeeks.org/problems/linked-list-of-strings-forms-a-palindrome/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Merge 2 Sorted Linked List in Reverse Order**
+  [Merge 2 sorted linked list in reverse order](https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Reverse Alternate Nodes in Linked List**
+  [Reverse alternate nodes in a linked list](https://www.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)
+- **Linked List That's Sorted Alternatively**
+  [Linked list that is sorted alternatively](https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Absolute List Sorting**
+  [Absolute list sorting](https://www.geeksforgeeks.org/problems/absolute-list-sorting/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Modify the Linked List-1**
+  [Modify the linked list-1](https://www.geeksforgeeks.org/problems/modify-linked-list-1-0546/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Reverse Both Parts**
   [Reverse both parts](https://www.geeksforgeeks.org/problems/reverse-both-parts--170647/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Reorder List**
   [Reorder list](https://www.geeksforgeeks.org/problems/reorder-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Rearrange Linked List In-Place**
   [Rearrange a linked list in-place](https://www.geeksforgeeks.org/problems/rearrange-linked-list-in-place/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
+- **Add 1 To Linked List**
+  [Add 1 to a linked list](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
+- **Add Numbers as Linked Lists**
+  [Add numbers represented as linked list](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
 - **Linked List Group Reversal**
   [Linked list group reversal](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Pairwise Swap Elements of Linked List**
@@ -201,24 +215,8 @@
   [Pairwise swap nodes of a linked list](https://www.geeksforgeeks.org/problems/pairwise-swap-of-nodes-in-linkelist/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Swap Kth Nodes From Ends**
   [Swap kth nodes from ends](https://www.geeksforgeeks.org/problems/swap-kth-node-from-beginning-and-kth-node-from-end-in-a-singly-linked-list/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Merge 2 Sorted Linked List in Reverse Order**
-  [Merge 2 sorted linked list in reverse order](https://www.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Add 1 To Linked List**
-  [Add 1 to a linked list](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1)
-- **Add Numbers as Linked Lists**
-  [Add numbers represented as linked list](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
-- **Reverse Alternate Nodes in Linked List**
-  [Reverse alternate nodes in a linked list](https://www.geeksforgeeks.org/problems/given-a-linked-list-reverse-alternate-nodes-and-append-at-the-end/1)
-- **XOR Linked List**  
-  [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 - **Split Linked List into Two Halves**  
   [Split a linkedlist into two halves](https://www.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1?page=2&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
-- **Absolute List Sorting**
-  [Absolute list sorting](https://www.geeksforgeeks.org/problems/absolute-list-sorting/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Linked List That's Sorted Alternatively**
-  [Linked list that is sorted alternatively](https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1?page=1&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
-- **Modify the Linked List-1**
-  [Modify the linked list-1](https://www.geeksforgeeks.org/problems/modify-linked-list-1-0546/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 
 ---
 
@@ -236,6 +234,8 @@
   [Intersection in Y-shaped lists](https://www.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
 - **Find Merge Point of Two Linked Lists**
   [Find merge point of two linked lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/forum)
+- **XOR Linked List**  
+  [XOR linked list](https://www.geeksforgeeks.org/problems/xor-linked-list/1?page=2&category=Linked%20List&difficulty=Basic,Easy,Medium,Hard&status=unsolved,attempted&sortBy=submissions)
 
 ---
 
