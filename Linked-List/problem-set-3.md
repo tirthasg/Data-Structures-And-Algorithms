@@ -59,9 +59,11 @@
 - **Find N/K-th Node**  
   [Find the n/kth node in linkedlist](https://www.geeksforgeeks.org/problems/find-nk-th-node-in-linked-list/1)
 - **Left Rotate Linked List**  
-  [Left rotate a linked list](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+  [Rotate a linked list](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)
 - **Left Rotate Doubly Linked List**  
-  [Left rotate doubly linked list](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
+  [Rotate doubly linked list by p nodes](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
+- **Right Rotate Linked List**
+  [Rotate List](https://leetcode.com/problems/rotate-list/description/)
 
 ---
 
