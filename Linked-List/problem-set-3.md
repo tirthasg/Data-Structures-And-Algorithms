@@ -171,10 +171,10 @@
 
 ## 🔄 Advanced Transformations
 
-- **Rotate Linked List**  
-  [Rotate a linked list](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)
-- **Rotate Doubly Linked List**  
-  [Rotate doubly linked list](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
+- **Left Rotate Linked List**  
+  [Left rotate a linked list](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1)
+- **Left Rotate Doubly Linked List**  
+  [Left rotate doubly linked list](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1)
 - **Reverse a Linked List**  
   [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category=Linked%20List&difficulty=Easy&status=solved&sortBy=submissions)
 - **Reverse a Doubly Linked List**
@@ -241,6 +241,11 @@
 
 - **Stack Using Linked List**  
   [Stack using linkedlist](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
+
+## To Add
+
+- **SA**
+- **LC**
 
 ## Conceptual Gaps
 
